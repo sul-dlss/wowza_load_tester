@@ -1,3 +1,6 @@
+The three of us ran this very informal load testing session with caching turned off and with the
+actual videos stored on the /data NFS mount. We just all ran the script at the same time.
+
 Naomi, on wired Internet
 ------------------------
 

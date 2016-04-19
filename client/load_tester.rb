@@ -6,7 +6,7 @@
 #  1. Ensure all the gems listed below as require are installed (used gem install)
 #  3. Put the urls you want to test in the url_list variable
 #  4. Set the max number of simultaneous connections you want in the simultaneous_connections variable, default is to run the entire url list at once
-#  5. Run from console via `ruby wowzatester.rb`
+#  5. Run from console via `ruby load_tester.rb`
 
 
 
